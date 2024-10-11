@@ -1,0 +1,15 @@
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.csproj.AssemblyReference.cache
+C:\Users\golov\source\repos\Lesson\obj\Debug\App.g.cs
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson_MarkupCompile.cache
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.g.resources
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.Properties.Resources.resources
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.csproj.GenerateResource.cache
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\golov\source\repos\Lesson\bin\Debug\Lesson.exe.config
+C:\Users\golov\source\repos\Lesson\bin\Debug\Lesson.exe
+C:\Users\golov\source\repos\Lesson\bin\Debug\Lesson.pdb
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.exe
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson.pdb
+C:\Users\golov\source\repos\Lesson\obj\Debug\Views\MainWindow.baml
+C:\Users\golov\source\repos\Lesson\obj\Debug\Views\MainWindow.g.cs
+C:\Users\golov\source\repos\Lesson\obj\Debug\Lesson_MarkupCompile.lref
