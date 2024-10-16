@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\suspi\\source\\repos\\Car\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|c:\\users\\suspi\\source\\repos\\car\\viewmodel\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|solutionrelative:viewmodel\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|c:\\users\\suspi\\source\\repos\\car\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|c:\\users\\suspi\\source\\repos\\car\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|c:\\users\\suspi\\source\\repos\\car\\data\\dbconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|solutionrelative:data\\dbconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|C:\\Users\\suspi\\source\\repos\\Car\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|C:\\Users\\suspi\\source\\repos\\Car\\viewmodel\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1D421F-424E-4D77-B93A-ECABBB93F072}|Lesson.csproj|solutionrelative:viewmodel\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DbConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\source\\repos\\Car\\Data\\DbConnectionManager.cs",
+              "RelativeDocumentMoniker": "Data\\DbConnectionManager.cs",
+              "ToolTip": "C:\\Users\\suspi\\source\\repos\\Car\\Data\\DbConnectionManager.cs",
+              "RelativeToolTip": "Data\\DbConnectionManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\source\\repos\\Car\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\suspi\\source\\repos\\Car\\Views\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:52:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\suspi\\source\\repos\\Car\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
@@ -42,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CarViewModel.cs",
               "DocumentMoniker": "C:\\Users\\suspi\\source\\repos\\Car\\ViewModel\\CarViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\CarViewModel.cs",
               "ToolTip": "C:\\Users\\suspi\\source\\repos\\Car\\ViewModel\\CarViewModel.cs",
               "RelativeToolTip": "ViewModel\\CarViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwF4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T16:58:15.586Z",
               "EditorCaption": ""

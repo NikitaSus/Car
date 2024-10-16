@@ -89,6 +89,12 @@ namespace Lesson.ViewModel
 
         }
 
+        //TODO временно, удалить, как только появится класс с подключением БД
+        public void CloseConnection()
+        {
+            
+        }
+
         public event PropertyChangedEventHandler PropertyChanged;
         protected virtual void OnPropertyChanged(string propertyName)
         {

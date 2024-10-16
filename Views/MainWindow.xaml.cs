@@ -1,6 +1,8 @@
 ﻿using Lesson.ViewModel;
 using System.ComponentModel;
 using System.Windows;
+using System.Data.SqlClient;
+using System;
 
 namespace Lesson.Views
 {
@@ -11,8 +13,10 @@ namespace Lesson.Views
     {
         public MainWindow()
         {
+            //User Id=<Пользователь>; Password=<Пароль>;
             InitializeComponent();
             DataContext = new CarViewModel();
+            
         }
     }
 }

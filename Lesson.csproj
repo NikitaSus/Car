@@ -64,6 +64,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Command\RelayCommand.cs" />
+    <Compile Include="Data\DbConnectionManager.cs" />
     <Compile Include="Model\CarModel.cs" />
     <Compile Include="ViewModel\CarViewModel.cs" />
     <Compile Include="Views\MainWindow.xaml.cs">
